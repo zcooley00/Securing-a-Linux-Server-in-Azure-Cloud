@@ -8,5 +8,6 @@ This project highlights my growing experience with cloud technology, Linux syste
 
 ## Lab Walkthrough
 
-![SSH Connection]
+![SSH Connection](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/85648293ccf5c29937aeb79aa889c3fcf02ec5be/ssh.png)
+![Sudo User Creation]()
 ![image alt](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4f3ea648dcd27131909c44d4cadd6049b196e82c/cole.png.png)
