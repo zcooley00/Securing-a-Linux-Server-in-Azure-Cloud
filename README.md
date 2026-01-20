@@ -10,7 +10,7 @@ This project highlights my growing experience with cloud technology, Linux syste
 
 ## This screenshot shows the Linux virtual machine successfully created in Microsoft Azure, confirming the cloud environment used for this lab.
 ![Completed SSH into Linux Azure Cloud](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4534524dd90528d5c628ec420c673ecf1a5e8882/completed%20linux%20os%20ssh.png)
-## A non-root user was created to manage the server, following security best practices that avoid using the root account for daily access. The user was granted administrative privileges using the sudo group, allowing system management while maintaining accountability and security.
+## A non-root user was created to manage the server. The user was granted administrative privileges using the sudo group permission access, allowing system management while maintaining accountability and security.
 ![Sudo User Creation](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/67980f0298e849ffb783e0866e02983f45d2e1bc/kimmie.png)
 ## Added a user with no sudo priviledge rights 
 ![Add user cole](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4f3ea648dcd27131909c44d4cadd6049b196e82c/cole.png.png)
