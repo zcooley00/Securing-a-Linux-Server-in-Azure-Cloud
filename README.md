@@ -9,6 +9,7 @@ This project highlights my growing experience with cloud technology, Linux syste
 ## Lab Walkthrough
 
 ## This screenshot shows the Linux virtual machine successfully created in Microsoft Azure, confirming the cloud environment used for this lab.
+![Completed SSH into Linux Azure Cloud](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4534524dd90528d5c628ec420c673ecf1a5e8882/completed%20linux%20os%20ssh.png)
 ![SSH Connection](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/85648293ccf5c29937aeb79aa889c3fcf02ec5be/ssh.png)
 ![Sudo User Creation](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/67980f0298e849ffb783e0866e02983f45d2e1bc/kimmie.png)
 ![UFW Firewall Enabled](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/d4edf55dfd061d3f2fb47900e3da6bb18ed909c8/ufw.png)
