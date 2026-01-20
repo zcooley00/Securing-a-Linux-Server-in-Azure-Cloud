@@ -7,4 +7,6 @@ I set up safe user access, limited how the server can be accessed remotely, revi
 This project highlights my growing experience with cloud technology, Linux systems, and cybersecurity as I work toward a Bachelor’s degree in Cloud and Network Engineering.
 
 ## Lab Walkthrough
+
+![SSH Connection]
 ![image alt](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4f3ea648dcd27131909c44d4cadd6049b196e82c/cole.png.png)
