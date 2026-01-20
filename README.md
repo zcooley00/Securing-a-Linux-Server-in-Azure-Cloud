@@ -8,6 +8,7 @@ This project highlights my growing experience with cloud technology, Linux syste
 
 ## Lab Walkthrough
 
+## This screenshot shows the Linux virtual machine successfully created in Microsoft Azure, confirming the cloud environment used for this lab.
 ![SSH Connection](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/85648293ccf5c29937aeb79aa889c3fcf02ec5be/ssh.png)
 ![Sudo User Creation](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/67980f0298e849ffb783e0866e02983f45d2e1bc/kimmie.png)
 ![UFW Firewall Enabled](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/d4edf55dfd061d3f2fb47900e3da6bb18ed909c8/ufw.png)
@@ -17,3 +18,4 @@ This project highlights my growing experience with cloud technology, Linux syste
 ![Add autoupdates](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/71fca31af9509cc1bee7f7837c92ef322d685072/addautoupdate.png)
 ![Add user cole](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4f3ea648dcd27131909c44d4cadd6049b196e82c/cole.png.png)
 ![No sudo privileges for user cole](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/d2d25a97cec28b48a8081c018a9f5518de586948/nonsudousercole.png)
+![log activity of Linux Server](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/a707aa9d66dfb5900631b31075c00c2a2462c477/log.png)
