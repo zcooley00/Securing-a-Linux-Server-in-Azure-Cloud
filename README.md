@@ -14,5 +14,5 @@ This project highlights my growing experience with cloud technology, Linux syste
 ![Running Services](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/2eea4a6bee21d6753d8ad8a38dc5e90fc1a548b9/services.png)
 ![Disable Services](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/02e83b798ab43cc2f4d0d5aa70bb309f14f679dc/diableservices.png)
 ![Update server](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4c5feadfc52a43750be12684a52686d46975b9eb/updates.png)
-![Add autoupdates]
+![Add autoupdates](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/71fca31af9509cc1bee7f7837c92ef322d685072/addautoupdate.png)
 ![Non priviledged user cole](https://github.com/zcooley00/Securing-a-Linux-Server-in-Azure-Cloud/blob/4f3ea648dcd27131909c44d4cadd6049b196e82c/cole.png.png)
